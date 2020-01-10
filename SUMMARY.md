@@ -9,6 +9,6 @@
 * [KOREA102](korea102.md)
   * [Lecture-01-08-2020](lecture-01-08-2020.md)
   * [101-Vocab](101-vocab.md)
-* ECE459
+* [ECE459](ece459.md)
   * [Lecture-01-10-2019](lecture-01-10-2019.md)
 
