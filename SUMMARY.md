@@ -8,9 +8,9 @@
 * [STV210](stv210.md)
   * [Lecture-01-07-2020](stv210/lecture-01-07-2020.md)
 * [KOREA102](korea102.md)
-  * [Lecture-01-08-2020](lecture-01-08-2020.md)
-  * [101-Vocab](101-vocab.md)
+  * [Lecture-01-08-2020](korea102/lecture-01-08-2020.md)
+  * [101-Vocab](korea102/101-vocab.md)
 * [ECE459](ece459.md)
-  * [Lecture-01-10-2020](lecture-01-10-2019.md)
-  * [Lecture-01-13-2020](lecture-01-13-2020.md)
+  * [Lecture-01-10-2020](ece459/lecture-01-10-2020.md)
+  * [Lecture-01-13-2020](ece459/lecture-01-13-2020.md)
 
