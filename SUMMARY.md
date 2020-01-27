@@ -14,4 +14,6 @@
 * [ECE459](ece459.md)
   * [Lecture-01-10-2020](ece459/lecture-01-10-2020.md)
   * [Lecture-01-13-2020](ece459/lecture-01-13-2020.md)
+* [JAPAN301R](japan301r.md)
+  * [Quiz 1 Material](japan301r/quiz-1-material.md)
 
