@@ -39,6 +39,28 @@ e.g.
 
 - Can mean "be like A" (From 202)
 - 301 usage: In order to reach the state A, perform B
-- If A contains a verb it needs to be intransitive
+- If A contains a verb it needs to be intransitive, uses が
 
 e.g.
+
+お金がたまるように、はたらきます。 - In order to have money, I'll work
+
+- The first part of sentence describes a state, the second part is the main sentence where an action is taken
+
+#### A + ために、B
+
+- In order to achieve A, do B
+- A uses transitive verbs and を
+
+e.g.
+
+お金をためるために、はたらきます。
+
+ 
+#### A + てくる
+
+- Describes action A is performed, and the entity performing action A is getting closer to you
+
+#### A + ていく
+
+- Describes action B is performed, and the entity performing action B is getting away from you
